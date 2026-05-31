@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersender",
+        "uuid": 15879165,
+        "checksum": "m3etgf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
